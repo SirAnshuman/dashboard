@@ -237,7 +237,7 @@ function Home() {
         </div>
 
         <div className="top table-row table-row2">
-          <img src="src/assets/images/img1.jpg" className="image1" />
+          <img src="public/images/img1.jpg" className="image1" />
           <div className="row2-content">
             <h3 className="row2-content1">Abstract 3D</h3>
             <p className="row2-content2">
@@ -254,7 +254,7 @@ function Home() {
         </div>
 
         <div className="top table-row table-row2">
-          <img src="src/assets/images/img2.jpg" className="image1" />
+          <img src="public/images/img2.jpg" className="image1" />
           <div className="row2-content">
             <h3 className="row2-content1">Sarphens Illustration</h3>
             <p className="row2-content2">
@@ -271,7 +271,7 @@ function Home() {
         </div>
 
         <div className="top table-row table-row2">
-          <img src="src/assets/images/img3.jpg" className="image1" />
+          <img src="public/images/img3.jpg" className="image1" />
           <div className="row2-content">
             <h3 className="row2-content1">Gradiance</h3>
             <p className="row2-content2">
@@ -288,7 +288,7 @@ function Home() {
         </div>
 
         <div className="top table-row table-row2">
-          <img src="src/assets/images/img4.jpg" className="image1" />
+          <img src="public/images/img4.jpg" className="image1" />
           <div className="row2-content">
             <h3 className="row2-content1">Artist Purge</h3>
             <p className="row2-content2">
@@ -305,7 +305,7 @@ function Home() {
         </div>
 
         <div className="top table-row table-row2">
-          <img src="src/assets/images/img5.jpg" className="image1" />
+          <img src="public/images/img5.jpg" className="image1" />
           <div className="row2-content">
             <h3 className="row2-content1">Covenant</h3>
             <p className="row2-content2">
