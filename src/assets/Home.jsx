@@ -14,6 +14,11 @@ import {
 import { BsSearch } from "react-icons/bs";
 
 import { RiArrowDropDownLine } from "react-icons/ri";
+// import img1 from './assets/images/img1'
+// import img2 from './assets/images/img2'
+// import img3 from './assets/images/img3'
+// import img4 from './assets/images/img4'
+// import img5 from './assets/images/img5'
 
 function Home() {
   const data = [
@@ -237,7 +242,7 @@ function Home() {
         </div>
 
         <div className="top table-row table-row2">
-          <img src="public/images/img1.jpg" className="image1" />
+          <img src='https://www.adorama.com/alc/wp-content/uploads/2020/10/abstract-photography-portrait.jpg' className="image1" />
           <div className="row2-content">
             <h3 className="row2-content1">Abstract 3D</h3>
             <p className="row2-content2">
@@ -254,7 +259,7 @@ function Home() {
         </div>
 
         <div className="top table-row table-row2">
-          <img src="public/images/img2.jpg" className="image1" />
+          <img src='https://www.adorama.com/alc/wp-content/uploads/2020/10/abstract-photography-light-pattern.jpg' className="image1" />
           <div className="row2-content">
             <h3 className="row2-content1">Sarphens Illustration</h3>
             <p className="row2-content2">
@@ -271,7 +276,7 @@ function Home() {
         </div>
 
         <div className="top table-row table-row2">
-          <img src="public/images/img3.jpg" className="image1" />
+          <img src='https://www.adorama.com/alc/wp-content/uploads/2020/10/abstract-photography-crosswalk.jpg' className="image1" />
           <div className="row2-content">
             <h3 className="row2-content1">Gradiance</h3>
             <p className="row2-content2">
@@ -288,7 +293,7 @@ function Home() {
         </div>
 
         <div className="top table-row table-row2">
-          <img src="public/images/img4.jpg" className="image1" />
+          <img src='https://www.adorama.com/alc/wp-content/uploads/2020/10/abstract-photography-light-pattern-mirrors.jpg' className="image1" />
           <div className="row2-content">
             <h3 className="row2-content1">Artist Purge</h3>
             <p className="row2-content2">
@@ -305,7 +310,7 @@ function Home() {
         </div>
 
         <div className="top table-row table-row2">
-          <img src="public/images/img5.jpg" className="image1" />
+          <img src='https://www.adorama.com/alc/wp-content/uploads/2020/10/abstract-photography-design-feature-1024x576.jpg' className="image1" />
           <div className="row2-content">
             <h3 className="row2-content1">Covenant</h3>
             <p className="row2-content2">
